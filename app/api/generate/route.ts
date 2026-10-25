@@ -30,7 +30,7 @@ export async function POST(req: Request) {
     });
 
     // Ambil teks dari response
-    const outputText = interaction.output_text;
+    const outputText = interaction.output_text || "";
 
     // Bersihin kalau ada format markdown ```tsx
     const cleanedCode = outputText
