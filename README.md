@@ -1,4 +1,5 @@
 # FigmaToCode AI
+<img width="1709" height="568" alt="Screenshot from 2026-10-24 23-12-36" src="https://github.com/user-attachments/assets/0b5be4f4-c020-4529-a511-459f213f84ad" />
 
 FigmaToCode AI is a Next.js application that converts a UI design image into clean, responsive React component code using Tailwind CSS and Gemini AI. Upload a mockup, screenshot, or wireframe, and the app sends it to the Gemini API to generate frontend code that matches the design structure and layout.
 
